@@ -1,0 +1,10 @@
+body{
+  position: relative;
+  text-align: left;
+}
+img{
+  position: relative;
+  height: 150px;
+  width: 150px;
+}
+
